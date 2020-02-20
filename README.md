@@ -1,7 +1,6 @@
 <h2>Screenshots of application</h2>
 <h4>Home Page</h4>
- 
- <img src="https://drive.google.com/file/d/16eX7BY4P1A2e2QjNWCt53W3kCTp-AC3T/view?usp=sharing" style="width:1000px; height:500px">
+ <img src="https://drive.google.com/uc?export=view&id=1LkMq0t9ZHx_wWMr4rQ9yIPgTH4pf6IOX" style="width:1000px; height:500px">
  
 <br/> <h4>View Tasks Page | Add Task</h4>
  <img src="https://drive.google.com/uc?export=view&id=1D2Dv63itzzphoveM38Jk2E3NJ_YOrnMo" style="width:1000px; height:500px">
